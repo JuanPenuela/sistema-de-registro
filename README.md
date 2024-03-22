@@ -4,4 +4,4 @@
 
 Para ejecutar el sisema, debes poner:
 
-```npm install react````
+```npm install react```
